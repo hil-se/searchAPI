@@ -1,3 +1,3 @@
 # searchAPI
 
-This is a simple example package. You can use
+This is a simple search API that works well with ARXIV.
