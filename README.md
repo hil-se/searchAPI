@@ -10,7 +10,7 @@ The search results can be filtered based on Title, Author, Abstract, Comment, Jo
 
 ### Without filtering
 It can be entered on the command line as
-	```python
+	```
 	python SearchAPI.py --search electron --start 0 --max 10000 --sort relevance
 	```
 
