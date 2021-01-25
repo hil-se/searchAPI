@@ -7,7 +7,7 @@ with open("README.md") as f:
 
 setup(
 	name = "searchscraper",
-	version = "0.1",
+	version = "0.2",
 	author = "Adarsh Balakrishnan, Zhe Yu",
 	author_email = "adarshbalakrishnan88@gmail.com",
 	description = ("A scholar search API that can be used to scrape data from Arxiv."),
