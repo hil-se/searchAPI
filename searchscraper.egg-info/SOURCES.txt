@@ -1,8 +1,0 @@
-README.md
-setup.py
-API/__init__.py
-API/searchscraper.py
-searchscraper.egg-info/PKG-INFO
-searchscraper.egg-info/SOURCES.txt
-searchscraper.egg-info/dependency_links.txt
-searchscraper.egg-info/top_level.txt
